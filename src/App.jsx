@@ -10,7 +10,7 @@ const App = () => {
   return (
     
     <main className='container'>
-    <h1 className='display-2 text-danger'>Proyecto Integrador</h1>
+    <h1 className='display-2 text-success'>Proyecto Integrador</h1>
     <hr />
     <Productos/>
     </main>
